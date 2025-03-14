@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2 style="color: #3498db;">Conecta conmigo</h2>
+<h2 style="color: #3498db;">Contacta conmigo</h2>
 <ul>
   <li><strong>Email:</strong> <a href="mailto:joseangelalbaladejosanchez" style="color: #e67e22;">joseangelalbaladejosanchez</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jose-%C3%A1ngel-albaladejo-s%C3%A1nchez-517775336/" style="color: #e67e22;">Jose Ángel Albaladejo Sánchez</a></li>
