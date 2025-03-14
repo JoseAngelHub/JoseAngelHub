@@ -14,9 +14,9 @@
 <picture><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
 - :school: Técnico en `Sistemas Microinformáticos y Redes` y `Desarrollador de Aplicaciones Multiplataforma`.
-- :trophy: Apasionado por la programación y siempre en busca de nuevos desafíos tecnológicos.
+- :trophy: Apasionado por la programación, la ciberseguridad y siempre en busca de nuevos desafíos tecnológicos.
 - :technologist: **Actualmente explorando** tecnologías como `Java`, `HTML`, `CSS`, `Python`, `JavaScript`, `Flutter` y `Dart`.
-- :email: Puedes contactarme a través de mi correo electrónico: [joseangelalbaladejosanchez@example.com](mailto:joseangelalbaladejosanchez@gmail.com)
+- :email: Puedes contactarme a través de mi correo electrónico: [joseangelalbaladejosanchez@gmail.com](mailto:joseangelalbaladejosanchez@gmail.com)
 - :link: Conéctemos en [LinkedIn](https://www.linkedin.com/in/jose-%C3%A1ngel-albaladejo-s%C3%A1nchez-517775336/)
 
 <br>
