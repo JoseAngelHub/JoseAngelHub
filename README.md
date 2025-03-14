@@ -62,10 +62,5 @@
 
 <br>
 
-<!-- Contador de visitas al perfil -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=JoseAngelHub&label=Visitas%20al%20perfil&color=1&pretty=false)](https://visitcount.itsvg.in)
-</div>
-
 <!--horizontal divider (gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
