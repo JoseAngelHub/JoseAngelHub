@@ -17,7 +17,7 @@
 - :trophy: Apasionado por la programación, la ciberseguridad y siempre en busca de nuevos desafíos tecnológicos.
 - :technologist: **Actualmente explorando** tecnologías como `Java`, `HTML`, `CSS`, `Python`, `JavaScript`, `Flutter` y `Dart`.
 - :email: Puedes contactarme a través de mi correo electrónico: [joseangelalbaladejosanchez@gmail.com](mailto:joseangelalbaladejosanchez@gmail.com)
-- :link: Conéctemos en [LinkedIn](https://www.linkedin.com/in/jose-%C3%A1ngel-albaladejo-s%C3%A1nchez-517775336/)
+- :link: Conectemos en [LinkedIn](https://www.linkedin.com/in/jose-%C3%A1ngel-albaladejo-s%C3%A1nchez-517775336/)
 
 <br>
 
